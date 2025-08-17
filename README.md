@@ -12,3 +12,12 @@ Iremos ultilizar as tecnologias para realizar o desenvolvimento de projetos voç
 - JPA
 - Bootstrap
 - PostgreSQL
+
+exemplo para enviar adicionar arquivo no repositorio
+
+```
+git add nome_do_arquivo
+git commit -m "Adicionando ima menssgem"
+git push -u origin branch_que_deseja
+
+```
